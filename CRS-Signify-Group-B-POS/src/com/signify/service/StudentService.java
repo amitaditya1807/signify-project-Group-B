@@ -13,7 +13,7 @@ public class StudentService {
 	}
 	
 	public void register() {
-		
+		return "Hello";
 	}
 	
 	public void viewGradeCard() {
